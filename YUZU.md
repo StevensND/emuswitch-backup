@@ -10,6 +10,8 @@ An example of the correct path would be: `D:\yuzu-windows-msvc-early-access\user
 
 - If you use the **`Appdata/Roaming/yuzu` folder method**, you will have to place the `scripts` folder inside this folder.
 
+An example of the correct path would be: `C:\Users\Stevens\AppData\Roaming\yuzu`.  You have to place the "scripts" folder inside this path. **Note that this route doesn't have to be yours.**
+
 Then just open the `scripts` folder and run `Saves Backup Yuzu.py`
 
 ## How do I know which method I am using?
