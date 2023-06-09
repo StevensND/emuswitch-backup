@@ -8,6 +8,8 @@ Ryujinx doesn't generate a folder of your saves by itself, you will have to do i
 
 A folder with your save will be generated automatically. If you pay attention to the path, it will be something similar to `bis\user save\000000000000000000000003\0`. For each game, the number `00000000000000000003` will be different and it will not match with the other games.
 
+From this moment, you will be able to use the script and it will generate the backup of your saves without having to do this step again.
+
 ## Steps
 
 - If you use the **`portable` folder method** used in option 1 of this [guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide#portable-mode), you will have to place the `scripts` folder inside `portable\bis\user\save` path. **PLEASE:** Make sure the `scripts` folder is inside or the script will not work. 
