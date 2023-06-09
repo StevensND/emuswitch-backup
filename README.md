@@ -14,3 +14,5 @@ Btw: I tried to make this same script in a .bat file but it is not working as I 
  This way seems to me the most correct and organized. I also did it this way since sometimes Yuzu creates another folder of your saves totally different from the one you had originally. The same thing happens if you do a full clean Yuzu installation. Credits to [u/Maxlastbreath](https://www.reddit.com/user/Maxlastbreath/) for the idea of getting the saves path this way.
  
  - In **Ryujinx version**, it will do the same. However, this time we don't need the qt-config.ini file. Ryujinx uses another method to save your saves totally different from Yuzu. [All steps here](https://github.com/StevensND/emuswitch-backup/blob/main/RYUJINX.md)
+
+Finally, all you have to do is select an exit route. A .zip file will be generated with all your saves. When you need them, simply extract the .zip and make sure to place the saves in the right directory.
