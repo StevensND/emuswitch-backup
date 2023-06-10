@@ -7,6 +7,8 @@ Do you like this script and want to support me?. Here is my [Ko-fi](https://ko-f
 
 Btw: I tried to make this same script in a .bat file but it is not working as I want (I don't find it user friendly: the GUI when selecting the output path is a bit complicated to use).
 
+Also if you want to know when a new Yuzu EA release is published, you can use this [Discord bot](https://github.com/StevensND/yuzuea-bot)
+
 ## How this script works?.
 
 - In **Yuzu version**, it will look for a file named "qt-config.ini" located inside the config folder. Once located, it will read the same file and will automatically find the path where your saves are located. Subsequently, it will make a .zip file containing all your saves. [All steps here](https://github.com/StevensND/emuswitch-backup/blob/main/YUZU.md)
