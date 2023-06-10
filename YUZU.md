@@ -39,4 +39,4 @@ Ignore 0x. The rest of the numbers must match. So ... For The Legend Of Zelda: T
 
 Just watch this [video](https://youtu.be/g_BkuE1erIw). In the video I show you how to do a clean installation of Yuzu (Yuzu Early Access in this case), but you can also keep in mind these steps in case Yuzu is bugged and has generated a new folder for your saves. If this is your case, watch the video starting around minute 2:40.
 
-Also here's the [guide](https://youtu.be/2cIIJSnbHhE) by [u/Maxlastbreath](https://www.reddit.com/user/Maxlastbreath/)
+Also here's the [guide](https://youtu.be/2cIIJSnbHhE) by [u/Maxlastbreath](https://www.reddit.com/user/Maxlastbreath/) with more details.
