@@ -1,6 +1,6 @@
 # What is required?
 - [Python](https://www.python.org/downloads/)
-- [7-Zip](https://7-zip.org/download.html) or WinRAR to extract the .zip file.
+- [7-Zip](https://7-zip.org/download.html) to extract the .zip file.
 - [Script](https://github.com/StevensND/emuswitch-backup/releases)
 
 ## Things to keep in mind
