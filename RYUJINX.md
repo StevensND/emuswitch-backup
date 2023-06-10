@@ -21,6 +21,8 @@ An example of the correct path would be: `D:\Ryujinx\publish\portable\bis\user\s
 
 An example of the correct path would be: `C:\Users\Stevens\AppData\Roaming\Ryujinx\bis\user\save`.  You have to place the `scripts` folder inside `AppData\Roaming\Ryujinx\bis\user\save` path
 
+Here's a [video](https://www.youtube.com/watch?v=TKDavf48n8g) with all the steps. In the video I'm using the AppData folder method but steps are the same for the portable folder method. Just paste the scripts folder into the portable folder.
+
 Then just open the `scripts` folder and run `Saves Backup Ryujinx.py`
 
 ## How do I know which method I am using?
