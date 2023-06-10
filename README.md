@@ -18,3 +18,9 @@ Also if you want to know when a new Yuzu EA release is published, you can use th
  - In **Ryujinx version**, it will do the same. However, this time we don't need the qt-config.ini file. Ryujinx uses another method to save your saves totally different from Yuzu. [All steps here](https://github.com/StevensND/emuswitch-backup/blob/main/RYUJINX.md)
 
 **Finally**, all you have to do is select an exit path. A .zip file will be generated with all your saves. When you need them, simply extract the .zip and make sure to place the saves in the right directory.
+
+## When you should do a backup?.
+
+This is always up to you but I like to do my backups before start the game and when I finish. 
+
+You can also do it by time intervals (ex: every 15 mins, every 30 mins, every hour ...) or before an important moment in the game where you don't want to lose your progress in case something bad happens.
