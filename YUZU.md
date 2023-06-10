@@ -34,3 +34,7 @@ You will see this path: `AppData/Roaming`. If in this path there is a folder nam
 Just open Yuzu and take a look at the numbers below game's name. Here's an [example](https://i.gyazo.com/b135919f26ebf1d0cc29f46c3c5ac092.png) of what I'm talking about.
 
 Ignore 0x. The rest of the numbers must match. So ... For The Legend Of Zelda: Tears Of The Kingdom the folder name will be: `0100F2C0115B6000`
+
+## How to restore your saves
+
+Just watch this [video](https://youtu.be/g_BkuE1erIw). In the video I show you how to do a clean installation of Yuzu (Yuzu Early Access in this case), but you can also keep in mind these steps in case Yuzu is bugged and has generated a new folder for your saves. If this is your case, watch the video starting around minute 2:40.
