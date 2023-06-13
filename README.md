@@ -23,6 +23,6 @@ Also if you want to know when a new Yuzu EA release is published, you can use th
 
 **ALWAYS** backup before updating your emulator/game or before reverting to a previous update. This is really important and will avoid save losts.
 
-This is always up to you but I like to do my backups before start the game and when I finish. 
+Also, this is always up to you but I like to do my backups before start the game and when I finish. 
 
 You can also do it by time intervals (ex: every 15 mins, every 30 mins, every hour ...) or before an important moment in the game where you don't want to lose your progress in case something bad happens.
