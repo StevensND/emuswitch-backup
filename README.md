@@ -11,6 +11,8 @@ Also if you want to know when a new Yuzu EA release is published, you can use th
 
 ## How this script works?.
 
+First of all, make sure you have [Python](https://www.python.org/downloads/) installed on your PC.
+
 - In **Yuzu version**, it will look for a file named "qt-config.ini" located inside the config folder. Once located, it will read the same file and will automatically find the path where your saves are located. Subsequently, it will make a .zip file containing all your saves. [All steps here](https://github.com/StevensND/emuswitch-backup/blob/main/YUZU.md)
  
  This way seems to me the most correct and organized. I also did it this way since sometimes Yuzu creates another folder of your saves totally different from the one you had originally. The same thing happens if you do a full clean Yuzu installation. Credits to [u/Maxlastbreath](https://www.reddit.com/user/Maxlastbreath/) for the idea of getting the saves path this way.
