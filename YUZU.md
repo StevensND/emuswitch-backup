@@ -7,7 +7,7 @@
 
 - If you use the **`user` folder method** used in step 2 of this [guide](https://www.reddit.com/user/Maxlastbreath/comments/148o725/tears_of_the_kingdom_yuzu_setup_guide_60_fps_up/), you will have to place the `scripts` folder inside this folder. Your `user` folder should [look like this](https://i.gyazo.com/d3a4c687dc4d479be384b5062263c905.png). **PLEASE:** Make sure the `scripts` folder is inside. Otherwise, the script won't work. 
 
-An example of the correct path would be: `D:\yuzu-windows-msvc-early-access\user`.  You have to place the `scripts` folder inside this path. **Note that this route doesn't have to be yours.**
+An example of the correct path would be: `D:\yuzu-windows-msvc-early-access\user`.  You have to place the `scripts` folder inside this path. **Note that this path doesn't have to be the same as yours.**
 
 Here's a [video](https://youtu.be/cfIAvwgcC4Y) with the steps using the `user` folder method .
 
