@@ -1,5 +1,5 @@
 # Yuzu/Ryujinx Saves Backup Script
-A script made in [Python](https://www.python.org/downloads/) by me [u/StevenssND](https://www.reddit.com/user/StevenssND) (Reddit profile). I had the idea of making this script before, but it didn't end up working the way I wanted it to. I got the idea back thanks to [this post](https://www.reddit.com/r/NewYuzuPiracy/comments/144mnun/autosave_backup_script/?utm_source=share&utm_medium=web2x&context=3) by [u/Nyxis0](https://www.reddit.com/user/Nyxis0/).
+A script made in [Python](https://www.python.org/downloads/) by me [u/StevenssND](https://www.reddit.com/user/StevenssND) (Reddit profile).
 
 This script allows you to perform an auto backup of your saves in Yuzu or Ryujinx emulator (Nintendo Switch). If you have any questions or problems, contact me on Reddit or Discord: stevenss. / Stevens#5210
 
