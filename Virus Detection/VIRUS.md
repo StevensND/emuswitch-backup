@@ -6,7 +6,9 @@ I have added other pages as well so you can make comparisons.
 
 If you still don't trust me and the script, you can use the versions that need Python and run the .py files. 
 
-You can locate them [here](https://github.com/StevensND/emuswitch-backup/releases) (v2 is the most recent and would work as the .exe file, if it doesn't work well for you, use v1). Also you can check .exe code for the script [here](https://github.com/StevensND/emuswitch-backup/tree/main/EXE%20Folder)
+You can locate them [here](https://github.com/StevensND/emuswitch-backup/releases) (v2 is the most recent and would work as the .exe file, if it doesn't work well for you, use v1). 
+
+Also you can check .exe code for the script [here](https://github.com/StevensND/emuswitch-backup/tree/main/EXE%20Folder)
 
 # Yuzu Version
 
