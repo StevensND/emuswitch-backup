@@ -19,7 +19,7 @@ For instance, in my case it will be something like: `D:\Emuladores\Yuzu\Yuzu EA`
 
 Then the script will look for a file named "qt-config.ini" located inside the config folder of your Yuzu folder. Once located, it will read the same file and will automatically find the path where your saves are located. Subsequently, it will make a .zip file containing all your saves. 
  
- This way seems to me the most correct and organized. I also did it this way due to sometimes Yuzu creates another folder of your saves totally different from the one you had originally. The same thing happens if you do a full clean Yuzu installation. Credits to [u/Maxlastbreath](https://www.reddit.com/user/Maxlastbreath/) for the idea of getting the saves path this way.
+ This way seems to me the most correct and organized. I also did it this way due to sometimes Yuzu can create another folder of your saves totally different from the one you had originally. The same thing happens if you do a full clean Yuzu installation. Credits to [u/Maxlastbreath](https://www.reddit.com/user/Maxlastbreath/) for the idea of getting the saves path this way.
  
  - In **Ryujinx version**, it will do the same. However, this time we don't need the qt-config.ini file. Ryujinx uses another method to save your saves totally different from Yuzu.
 
