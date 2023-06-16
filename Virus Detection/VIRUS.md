@@ -1,6 +1,6 @@
 # Disclaimer
 
-For some strange reason that I don't know yet (I don't know if it's because of the way the .exe is generated), Virustotal detects the script as a virus (for this reason I put several links). In some occasions it detects 1 to 4 detections if the file is an .exe. On the other hand, if I make a .zip file from the .exe file this doesn't happen, so I would say that Virustotal has a strange and weird behavior.
+For some strange reason that I don't know yet (I don't know if it's because of the way the .exe is generated), Virustotal detects the script as a virus (for this reason I put several links). In some occasions it detects 1 to 4 detections if the file is an .exe. On the other hand, if I make a .zip file from the .exe file this doesn't happen, so I would say that Virustotal has a strange and weird behavior + it's a false positive case.
 
 I have added other pages as well so you can make comparisons. 
 
