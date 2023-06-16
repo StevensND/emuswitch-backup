@@ -1,14 +1,14 @@
 # Disclaimer
 
-For some strange reason that I don't know (I don't know if it's because of the way the .exe is generated), Virustotal detects the script as a virus (for this reason I put several links). In some occasions it detects 1 or 3 if the file is an .exe. On the other hand, if I make a .zip file from the .exe file this doesn't happen, so I would say that Virustotal has a strange and weird behavior.
+For some strange reason that I don't know yet (I don't know if it's because of the way the .exe is generated), Virustotal detects the script as a virus (for this reason I put several links). In some occasions it detects 1 to 4 detections if the file is an .exe. On the other hand, if I make a .zip file from the .exe file this doesn't happen, so I would say that Virustotal has a strange and weird behavior.
 
 I have added other pages as well so you can make comparisons. 
 
-If you still don't trust me and the script, you can use the versions that need Python and run the .py files. 
+If you still don't trust me and think that the files are virus, you can use the versions that need Python and run the .py files. 
 
-You can locate them [here](https://github.com/StevensND/emuswitch-backup/releases) (v2 is the most recent and would work as the .exe file, if it doesn't work well for you, use v1). 
+You can locate them [here](https://github.com/StevensND/emuswitch-backup/releases) (v2 is the most recent and should work similar as the .exe file, if it doesn't work properly for you, use v1 version). 
 
-Also you can check .exe code for the script [here](https://github.com/StevensND/emuswitch-backup/tree/main/EXE%20Folder)
+Also you could check .exe files code for the script [here](https://github.com/StevensND/emuswitch-backup/tree/main/EXE%20Folder)
 
 # Yuzu Version
 
@@ -24,13 +24,13 @@ Jotti: https://virusscan.jotti.org/en-US/filescanjob/geqa7ufzv1
 
 # Ryujinx Version
 
-Ryujinx VirusTotal Unzip: https://www.virustotal.com/gui/file/e39f59e453bcc961976a787dabe5ea842d180a9e47b69c79a7d2563629082303?nocache=1
+VirusTotal Unzip: https://www.virustotal.com/gui/file/e39f59e453bcc961976a787dabe5ea842d180a9e47b69c79a7d2563629082303?nocache=1
 
-Ryujinx VirustTotal as .zip file: https://www.virustotal.com/gui/file/1dbddc5f315eb791058416cd823952ff3ed2a7beb51eaef16d14873616b0b881?nocache=1
+VirustTotal as .zip file: https://www.virustotal.com/gui/file/1dbddc5f315eb791058416cd823952ff3ed2a7beb51eaef16d14873616b0b881?nocache=1
 
-Ryujinx Metadefender: https://metadefender.opswat.com/results/file/bzIzMDYxNmstQUQyVGtYZmZlRTJfMzA5aDZU/regular/overview
+Metadefender: https://metadefender.opswat.com/results/file/bzIzMDYxNmstQUQyVGtYZmZlRTJfMzA5aDZU/regular/overview
 
-Ryujinx Hybrid Analysis: https://www.hybrid-analysis.com/sample/e39f59e453bcc961976a787dabe5ea842d180a9e47b69c79a7d2563629082303
+Hybrid Analysis: https://www.hybrid-analysis.com/sample/e39f59e453bcc961976a787dabe5ea842d180a9e47b69c79a7d2563629082303
 
-Ryujinx Jotti: https://virusscan.jotti.org/en-US/filescanjob/c27pt11u1d
+Jotti: https://virusscan.jotti.org/en-US/filescanjob/c27pt11u1d
 
