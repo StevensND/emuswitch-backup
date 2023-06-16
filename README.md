@@ -11,7 +11,7 @@ Also if you want to know when a new Yuzu EA release is published, you can use th
 
 **Since 16 June 2023, install [Python](https://www.python.org/downloads/) is optional (you can use .exe files instead)**. So this means that you no longer need it.
 
-- In **Yuzu version**, the first step is to **tell the script where your Yuzu folder is located**.
+- For **Yuzu version**, watch this [video guide](https://youtu.be/hMvg9PJdD08). So ... The first step is to **tell the script where your Yuzu folder is located**.
 
 If you use the `Appdata folder` instead of `user folder`, you will have to tell the script where Appdata folder is located. For `user folder` you only need to tell the script where is your  emulator folder located (the folder with all Yuzu files). 
 
