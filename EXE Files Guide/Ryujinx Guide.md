@@ -5,7 +5,7 @@
 
 Ryujinx doesn't generate a folder of your saves by itself, you will have to do it by yourself. To do so, run Ryujinx and search for the game you would like to backup your save. Then right click on the game and click on `Open User Save Directory`. 
 
-A folder with your save will be generated automatically. If you pay attention to the path, it will be something similar to `bis\user save\000000000000000000000003\0`. For each game, the number `00000000000000000003` will be different and it will not match with the other games.
+A folder with your save will be generated automatically. If you pay attention to the path, it will be something similar to `bis\user save\000000000000000000000003\0`. For each game, the number `00000000000000000003` will be different and it will not match with the other games. The .zip file simplifies this and you will see `save` folder. Open it and from there, you will see the rest of folders and files.
 
 From this moment, you will be able to use the script and it will generate the backup of your saves without having to do this step again.
 
