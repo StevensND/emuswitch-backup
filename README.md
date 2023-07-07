@@ -1,4 +1,6 @@
 # Yuzu/Ryujinx Saves Backup Script
+![GitHub all releases](https://img.shields.io/github/downloads/StevensND/emuswitch-backup/total) 
+
 A script made in [Python](https://www.python.org/downloads/) by me [u/StevenssND](https://www.reddit.com/user/StevenssND) (Reddit profile).
 
 This script allows you to perform an auto backup of your saves in Yuzu or Ryujinx emulator (Nintendo Switch). If you have any questions or problems, contact me on Reddit or [Discord](https://discord.gg/7MMv4yGfhM). My user is: stevenss. / Stevens#5210
