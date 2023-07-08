@@ -1,5 +1,4 @@
 # Yuzu/Ryujinx Saves Backup Script
-![GitHub all releases](https://img.shields.io/github/downloads/StevensND/emuswitch-backup/total?style=for-the-badge&logo=github&label=Total%20Downloads&color=blue)
 
 A script made in [Python](https://www.python.org/downloads/) by me [u/StevenssND](https://www.reddit.com/user/StevenssND) (Reddit profile).
 
